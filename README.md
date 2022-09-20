@@ -12,7 +12,7 @@ __if having problems downloading collections or mods, make sure any file/cmd fro
 
 **Disclaimer!**
 *Your computer might detect this as a "virus". It uses administrator and allows powershell script running on your computer. As the program uses powershell.*
-If you are very parnoid. [Click here for a explaination]([url](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki/Virus-explaination))
+If you are very parnoid. [Click here for a explaination](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki/Virus-explaination)
 
 **I have lost the source code for this project so i am unable to provide a open release but a compiled close release. Sorry! but most important stuff is still in the file.**
 
