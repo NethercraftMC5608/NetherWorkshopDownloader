@@ -20,4 +20,5 @@ __Disclaimer! This could be seen as a "virus" by your computer. It uses administ
 
 **PLEASE UPLOAD BUGS OR PROBLEMS IN THE ISSUES TAB, NOT ANYWHERE ELSE. I'LL GET BACK TO YOU, THANKS!**
 
+writing is alittle scuffed, as this program was only for personal use. But it works!
 _windows only_
