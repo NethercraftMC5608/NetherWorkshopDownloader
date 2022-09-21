@@ -1,5 +1,8 @@
 # NethersWorkshopDownloader
 # 460+ Games Supported!
+**IMPORTANT: I am going to create NetherWorkshopDownloader 2, it will be reworked and a gui based program. Be able to login into your accounts (instead of anonymous) and download mods. It should release tommorow (22nd) Stay tuned! Meanwhile use the original NetherWorkshopDownloader.**
+
+
 ![image](https://user-images.githubusercontent.com/89841173/191242823-4e3879c7-32e9-4a09-a6ad-3549f54609bc.png)
 
 Steam Workshop Mod/Collection Downloader
