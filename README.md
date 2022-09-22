@@ -5,9 +5,8 @@
 
 
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+[![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
+<a href="https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"><img src="https://img.shields.io/badge/View%20the%20Documentation-%20-blue?style=flat-square&link=https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"></a>
 
 Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
 
