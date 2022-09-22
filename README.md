@@ -2,6 +2,7 @@
 # 460+ Games Supported!
 **IMPORTANT: I am going to create NetherWorkshopDownloader 2, it will be reworked and a gui based program. Be able to login into your accounts (instead of anonymous) and download mods. It should release ~~tommorow (22nd)~~ actually this is going to take a little longer. 20% done atleast. Stay tuned! Meanwhile use the original NetherWorkshopDownloader.**
 
+### We are aware of the current timeout issue, it is due to validation issues from Steam. Will be fixed in NetherWorkshopDownloader2!
 
 
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
