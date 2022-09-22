@@ -3,6 +3,14 @@
 **IMPORTANT: I am going to create NetherWorkshopDownloader 2, it will be reworked and a gui based program. Be able to login into your accounts (instead of anonymous) and download mods. It should release ~~tommorow (22nd)~~ actually this is going to take a little longer. 20% done atleast. Stay tuned! Meanwhile use the original NetherWorkshopDownloader.**
 
 
+
+[![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
+
 ![image](https://user-images.githubusercontent.com/89841173/191242823-4e3879c7-32e9-4a09-a6ad-3549f54609bc.png)
 
 Steam Workshop Mod/Collection Downloader
