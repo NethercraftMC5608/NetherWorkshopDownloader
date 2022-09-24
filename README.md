@@ -7,7 +7,8 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 
 ### A powerful steam workshop mod/collection downloader.
 Can download multiple mods, collections at a time.
-**API coming soon (hosted by https://netherweb.xyz)***
+**API coming soon (hosted by https://netherweb.xyz)**
+
 For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
