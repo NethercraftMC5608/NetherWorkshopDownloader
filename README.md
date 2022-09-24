@@ -28,7 +28,7 @@ __if having problems downloading collections or mods, make sure any file/cmd fro
 **Made this workshop downloader as I just heard that Steam is taking all the steam downloaders down. And also all of them are broken.**
 **Made with SteamCMD**
 
-**I have lost the source code for this project so i am unable to provide a open release but a compiled close release. Sorry! but most important stuff is still in the file. And will not be maintained or updated.**
+**I have lost the source code for NetherWorkshopDownloader1 so i am unable to provide a open release but a compiled close release. Sorry! but most important stuff is still in the file. And will not be maintained or updated.**
 
 **Enjoy!**
 
