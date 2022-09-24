@@ -1,4 +1,4 @@
-# NethersWorkshopDownloader
+# NetherWorkshopDownloader
 # 460+ Games Supported!
 **IMPORTANT: I am going to create NetherWorkshopDownloader 2, it will be reworked and a gui based program. Be able to login into your accounts (instead of anonymous) and different APIS to download mods. It should release TOMMOROW 24th Sep.**
 
