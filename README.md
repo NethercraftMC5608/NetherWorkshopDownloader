@@ -3,6 +3,8 @@
 ## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/NetherWorkshopDownloader2) 
 NetherWorkshopDownloader2, A gui more safer alternative than NetherWorkshopDownloader
 
+For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
+
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
 [![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
 <a href="https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"><img src="https://img.shields.io/badge/View%20the%20Documentation-%20-blue?style=flat-square&link=https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"></a>
