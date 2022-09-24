@@ -22,7 +22,6 @@ Steam Workshop Mod/Collection Downloader
 ![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
 
 
-**Still Works! 20/09/2022**
 **Will work for a majority of games on steam, some games might not work. (anonymous account)**
 __if having problems downloading collections or mods, make sure any file/cmd from the workshop downloader is closed, otherwise it will not function.__
 
