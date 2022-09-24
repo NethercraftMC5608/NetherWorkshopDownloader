@@ -1,7 +1,7 @@
 # NetherWorkshopDownloader
 # 460+ Games Supported!
 ## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/NetherWorkshopDownloader2) 
-
+NetherWorkshopDownloader2, A gui more safer alternative than NetherWorkshopDownloader
 
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
 [![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
@@ -13,7 +13,8 @@ Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/Nether
 
 Steam Workshop Mod/Collection Downloader
 **Can download anything! Collections or mods.**
-![image](https://user-images.githubusercontent.com/89841173/191186400-22910d6f-e688-4f67-ba25-8e9fce9706e7.png)
+![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
+
 
 **Still Works! 20/09/2022**
 **Will work for a majority of games on steam, some games might not work. (anonymous account)**
@@ -21,8 +22,6 @@ __if having problems downloading collections or mods, make sure any file/cmd fro
 
 **Made this workshop downloader as I just heard that Steam is taking all the steam downloaders down. And also all of them are broken.**
 **Made with SteamCMD**
-
-__Disclaimer! This could be seen as a "virus" by your computer. It uses administrator and permits your PC to run PowerShell scripts. Powershell is used by the script. if your paranoia is extreme. [Click here for a explaination](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki/Virus-explaination)__
 
 **I have lost the source code for this project so i am unable to provide a open release but a compiled close release. Sorry! but most important stuff is still in the file. And will not be maintained or updated.**
 
