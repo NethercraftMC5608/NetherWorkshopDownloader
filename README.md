@@ -3,6 +3,8 @@
 ## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/NetherWorkshopDownloader2) 
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
 
+**Please download the most latest version. V1.0B**
+
 ### A powerful steam workshop mod/collection downloader.
 
 For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
