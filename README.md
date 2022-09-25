@@ -11,7 +11,10 @@ Can download multiple mods, collections at a time.
 
 For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
+**[Please join my Discord Server! Please! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
+
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
+![Discord](https://img.shields.io/discord/1023539576821780481?label=Discord&style=flat-square)
 [![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
 <a href="https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"><img src="https://img.shields.io/badge/View%20the%20Documentation-%20-blue?style=flat-square&link=https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"></a>
 
