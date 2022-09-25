@@ -38,3 +38,6 @@ __if having problems downloading collections or mods, make sure any file/cmd fro
 
 writing is alittle scuffed, as this program was only for personal use. But it works!
 _windows only_
+
+**Please report any legal deliberations or feedback to this email: NetherServerHosting@protonmail.com**
+
