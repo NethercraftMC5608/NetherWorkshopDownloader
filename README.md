@@ -1,6 +1,6 @@
 # NetherWorkshopDownloader
 # 460+ Games Supported!
-## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V1.1B) 
+## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
 
 **Please use the most recent version. [V2.0 Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0-Experimental) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
