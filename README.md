@@ -9,7 +9,7 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 Can download multiple mods, collections at a time.
 **API Support! [V2.0A Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0A-Experimental)**
 
-For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
+[VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
 **[Please join my Discord Server! Please! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
 
