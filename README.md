@@ -23,10 +23,6 @@ Can download multiple mods, collections at a time.
 
 Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
 
-![image](https://user-images.githubusercontent.com/89841173/191242823-4e3879c7-32e9-4a09-a6ad-3549f54609bc.png)
-
-__Source from [Pyinstaller](https://github.com/pyinstaller)__
-
 Steam Workshop Mod/Collection Downloader
 **Can download anything! Collections or mods.**
 ![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
