@@ -11,7 +11,7 @@ Can download multiple mods, collections at a time.
 
 [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
-**[Please join my Discord Server! Please! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
+**[Please join my Discord Server! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
 
 **[I made a donation page! Check it out!](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!)**
 
