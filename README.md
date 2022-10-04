@@ -13,6 +13,9 @@ For paranoids, [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopD
 
 **[Please join my Discord Server! Please! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
 
+**[I made a donation page! Check it out!](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!)**
+
+<a href="https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!"><img src="https://img.shields.io/static/v1?label=Donate&message=Support%20Me!&color=red&style=for-the-badge"></a>
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
 ![Discord](https://img.shields.io/discord/1023539576821780481?label=Discord&style=flat-square)
 [![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
