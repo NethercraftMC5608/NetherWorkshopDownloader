@@ -3,11 +3,11 @@
 ## NetherWorkshopDownloader 2 is finished! [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
 
-**Please use the most recent version. [V2.0A Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0A-Experimental) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
+**Please use the most recent version. [V2.0B Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0B-Experimental) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
 
 ### A powerful steam workshop mod/collection downloader with its own API!
 Can download multiple mods, collections at a time.
-**API Support! [V2.0A Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0A-Experimental)**
+**API Support! [V2.0B Experimental](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.0A-Experimental)**
 
 [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
