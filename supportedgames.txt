@@ -6,3 +6,4 @@ Starwars Empire at war
 Kerbal space program
 Darkest Dungeon
 People Playground
+Hearts of Iron IV
