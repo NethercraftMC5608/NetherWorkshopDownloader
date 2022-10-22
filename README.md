@@ -13,7 +13,6 @@ Can download multiple mods, collections at a time.
 
 **[Please join my Discord Server! Everyone is welcome, regardless of the downloader they use!](https://discord.gg/hakxEpem48)**
 
-### **Every time you [donate](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!). I would send half of your donation (excluding fees) to a random charity!**
 
 **[I made a donation page! Check it out!](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!)**
 
