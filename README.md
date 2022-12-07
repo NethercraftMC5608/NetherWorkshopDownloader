@@ -7,7 +7,6 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 
 ### A powerful steam workshop mod/collection downloader with its own API!
 Can download multiple mods, collections at a time.
-**API Support! [V2.1A](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.1A)**
 
 [VirusTotal](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Virus-explaination)
 
@@ -29,19 +28,15 @@ Steam Workshop Mod/Collection Downloader
 ![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
 
 
-**Will work for a majority of games on steam, some games might not work. (anonymous account)**
-__if having problems downloading collections or mods, make sure any file/cmd from the workshop downloader is closed, otherwise it will not function.__
+**A powerful workshop downloader and a powerful workshop API, this downloader can download mods that you could never access using other downloaders.**
 
-**Made this workshop downloader as I just heard that Steam is taking all the steam downloaders down. And also all of them are broken.**
-**Made with SteamCMD**
+Using a API called Nether API, unanonymous mods can be downloaded. It is very fast when cached.
 
-**I have lost the source code for NetherWorkshopDownloader1 so i am unable to provide a open release but a compiled close release. Sorry! but most important stuff is still in the file. And will not be maintained or updated.**
+| Nether API  | Other API's |
+| ------------- | ------------- |
+| Community Based ✅  | ❎|
+| Free* ✅ | ❎|
 
-**Enjoy!**
-
-**PLEASE UPLOAD BUGS OR PROBLEMS IN THE ISSUES TAB, NOT ANYWHERE ELSE. I'LL GET BACK TO YOU, THANKS!**
-
-_windows only_
 
 **Please report any legal deliberations or feedback to this email: NetherServerHosting@protonmail.com**
 
