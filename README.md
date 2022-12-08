@@ -30,6 +30,8 @@ Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/Nether
 Steam Workshop Mod/Collection Downloader
 **Can download anything! Collections or mods.**
 ![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
+![mac](https://user-images.githubusercontent.com/89841173/206421645-7907cb07-ddf5-4ff4-84f4-6b293b3d7d59.png)
+_Mac and Linux support coming soon._
 
 
 **A powerful workshop downloader and a powerful workshop API, this downloader can download mods that you could never access using other downloaders.**
