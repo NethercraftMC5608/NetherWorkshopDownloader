@@ -9,7 +9,7 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 ![GIF](https://user-images.githubusercontent.com/89841173/206400903-8652cf95-aaf2-40b9-a6f9-710e8ace3878.gif)
 
 
-**Please use the most recent version. [V2.1A](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/V2.1A) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
+**Please use the most recent version. [Legacy](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/Legacy) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
 
 
 
@@ -45,6 +45,20 @@ Using a API called Nether API, unanonymous mods can be downloaded. It is very fa
 | Free* ✅ | ❎|
 | Data Saving* ✅ | ❎|
 
+# NWD Fastest Compression, Fast and space conservative.
+NWD Fastest Compression is a new compression method that is encorporated in Nether API, **No other downloader but NetherWorkshopDownloader can extract NWD files.**
+**What's so good about this new compression?**
+
+- Very fast -
+I mean very very very fast, compared to the old compression, this compresses a 1GB file in only 10 seconds!
+- Very conservative  -
+This is the future, a 1GB file that takes 10 seconds to compress, and would compress it to 4MB *(Subject to how many bits/content in file)*.
+- Data Saving -
+If you are using celluar data, or have slow internet or data limit, With NWD Fastest Compression, 200MB files will turn to 2MB, 4MB file would turn into 24KB. Making downloading files faster and don't have to worry about any data cap.
+- Fast uncompression. -
+You might of think that the uncompression speeds were the only let down. Nope. Files uncompress in only 3 seconds.
+
+**And better yet, NetherWorkshopDownloader 2 (Legacy) supports NWD Fastest Compression!**
 
 **Please report any legal deliberations or feedback to this email: NetherServerHosting@protonmail.com**
 
