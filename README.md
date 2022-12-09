@@ -39,7 +39,7 @@ _Mac and Linux support coming soon._
 
 Using a API called Nether API, unanonymous mods can be downloaded. It is very fast when cached.
 
-| Nether API  | Other API's |
+| Nether Workshop  | Other |
 | ------------- | ------------- |
 | Community Based ✅  | ❎|
 | Free* ✅ | ❎|
