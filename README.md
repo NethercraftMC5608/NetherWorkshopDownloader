@@ -61,5 +61,7 @@ You might of think that the uncompression speeds were the only let down. Nope. F
 
 **And better yet, NetherWorkshopDownloader 2 (Legacy) supports NWD Fastest Compression!**
 
+_NWD Fastest Compression is [lz4.](https://github.com/lz4/lz4) Extremely Fast Compression algorithm_
+
 **Please report any legal deliberations or feedback to this email: NetherServerHosting@protonmail.com**
 
