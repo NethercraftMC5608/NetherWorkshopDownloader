@@ -43,6 +43,7 @@ Using a API called Nether API, unanonymous mods can be downloaded. It is very fa
 | ------------- | ------------- |
 | Community Based ✅  | ❎|
 | Free* ✅ | ❎|
+| Data Saving* ✅ | ❎|
 
 
 **Please report any legal deliberations or feedback to this email: NetherServerHosting@protonmail.com**
