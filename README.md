@@ -39,8 +39,7 @@ Using a API called Nether API, unanonymous mods can be downloaded. It is very fa
 | Extract .NWD Files ✅ | ❎|
 
 # NWD Fastest Compression, Fast and space conservative.
-NWD Fastest Compression is a new compression method that is encorporated in Nether API, **No other downloader but NetherWorkshopDownloader can extract NWD files.**
-**What's so good about this new compression?**
+NWD Fastest Compression is a new compression method that is encorporated in Nether API,
 
 - Very fast -
 I mean very very very fast, compared to the old compression, this compresses a 1GB file in only 10 seconds!
