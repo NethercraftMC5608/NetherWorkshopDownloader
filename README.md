@@ -5,7 +5,7 @@
 ### A powerful Steam workshop mod/collection downloader with its own API!
 Can download multiple mods, collections at a time.
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
-
+## NetherWorkshopDownloader 3 coming soon.
 ![GIF](https://user-images.githubusercontent.com/89841173/206400903-8652cf95-aaf2-40b9-a6f9-710e8ace3878.gif)
 
 ## [Join the Discord server!](https://discord.gg/bs9TMxMJk9)
