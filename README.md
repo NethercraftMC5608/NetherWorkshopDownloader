@@ -1,5 +1,5 @@
 # NetherWorkshopDownloader
-# 460+ Games Supported!
+# Most Amount Of Games Supported!
 # [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
 
 ### A powerful Steam workshop mod/collection downloader with its own API!
