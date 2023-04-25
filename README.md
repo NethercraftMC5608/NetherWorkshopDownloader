@@ -1,7 +1,7 @@
 # NetherWorkshopDownloader
 # Most Amount Of Games Supported!
 # [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
-
+## NetherWorkshopDownloader3 is releasing, and it would only be avaliable through discord. [Join Now](https://discord.gg/bs9TMxMJk9)
 ### A powerful Steam workshop mod/collection downloader with its own API!
 Can download multiple mods, collections at a time.
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
