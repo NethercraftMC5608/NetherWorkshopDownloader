@@ -48,6 +48,18 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 [![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
 <a href="https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"><img src="https://img.shields.io/badge/View%20the%20Documentation-%20-blue?style=flat-square&link=https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"></a>
 
+Disclaimer: The respective owners hold all rights to the APIs, services, and trademarks mentioned in this repository. This project has no claim of ownership over them, nor is it affiliated with or endorsed by any of the mentioned providers.
+
+Responsibility: The author of this repository shall not be held responsible for any consequences, damages, or losses resulting from the use or misuse of this repository or the content provided by third-party APIs. Users bear sole responsibility for their actions and the potential repercussions that may ensue. We strongly advise users to adhere to the terms of service (TOS) for each respective website.
+
+Educational Purposes Only: This repository and its content are exclusively intended for educational purposes. By utilizing the information and code provided, users acknowledge that they assume all risk associated with the use of the APIs and mods, and they agree to comply with all applicable laws and regulations.
+
+Copyright: Unless otherwise stated, all content in this repository, including code, images, and documentation, is the intellectual property of the repository author. Unauthorized copying, distribution, or use of any content in this repository is strictly prohibited without the express written consent of the repository author.
+
+Indemnification: Users agree to indemnify, defend, and hold the author of this repository harmless from any and all claims, liabilities, damages, losses, or expenses, including legal fees and costs, arising from their use or misuse of this repository, its content, or related third-party APIs.
+
+Updates and Changes: The author reserves the right to modify, update, or remove any content, information, or features in this repository at any time without prior notice. Users are responsible for regularly reviewing the content and staying informed about any changes made to this repository.
+
 Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
 
 Steam Workshop Mod/Collection Downloader
