@@ -1,0 +1,113 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+h1 {
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+	
+}
+#overlay {
+    background-color: #1E1F28;
+}
+#title {
+    background-color: black;
+    border-radius: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 4px;
+    padding-bottom: 4px
+}
+body {
+    background: #1E1F28;
+}
+.bigBar {
+    display: inline-block;
+}
+#navpadding {
+    padding-right: 20px
+}
+p {
+    font-family: sans-serif;
+    color: white;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 25%
+}
+.black-screen {
+    background-color: black;
+    color: white;
+}
+.button-40 {
+    padding: 20px;
+    round-color: grey;
+  border: 1px solid transparent;
+  border-radius: .75rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex: 0 0 auto;
+  font-family: "arial";
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding: .75rem 1.2rem;
+  text-align: center;
+  text-decoration: none #6B7280 solid;
+  text-decoration-thickness: auto;
+  transition-duration: .2s;
+  transition-property: background-color,border-color,color,fill,stroke;
+  transition-timing-function: cubic-bezier(.4, 0, 0.2, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+    color: black;
+}
+
+.button-40:hover {
+  background-color: #374151;
+}
+
+.button-40:focus {
+  box-shadow: none;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+@media (min-width: 768px) {
+  .button-40 {
+    padding: .75rem 1.5rem;
+  }
+}
+  #fname {
+    border: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #373737;
+    padding: 12px;
+    border-radius: 12px;
+    width: 90%;
+    font-size: 14px;
+    font-family:"arial";
+    color: white;
+  }
+::-webkit-input-placeholder {
+  text-align: center;
+  }
+#space {
+    padding-top: 20px;
+}
+#padd {
+    padding: 68px 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+form {
+  display:inline;
+}
