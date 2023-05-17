@@ -27,7 +27,7 @@ Fastest Downloads, anytime.
 
 Downloads from Nether API are compressed to insane size and are decompressed at the speed of light.
 
-NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. Get it now.
+NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. [Get it now.](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/)
 
 ![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/7219ab76-8e2c-4e63-8cd9-e1453be31c9c)
 ![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/92dabd07-dd20-48c3-afec-dbf79bdc28ee)
@@ -41,8 +41,6 @@ NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWor
 ![GIF](https://user-images.githubusercontent.com/89841173/206400903-8652cf95-aaf2-40b9-a6f9-710e8ace3878.gif)
 
 ## [Join the Discord server!](https://discord.gg/bs9TMxMJk9)
-
-**Please use the most recent version. [Legacy](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/Legacy) (Experimental builds may not work as well as older builds) , the application is still actively updated, and there may be real-time changes..**
 
 <a href="https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!"><img src="https://img.shields.io/static/v1?label=Donate&message=Support%20Me!&color=red&style=for-the-badge"></a>
 [![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
