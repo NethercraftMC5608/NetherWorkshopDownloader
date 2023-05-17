@@ -1,11 +1,43 @@
-# NetherWorkshopDownloader
+# NetherWorkshopDownloader3
+**NetherWorkshopDownloader3 is a powerful tool for downloading workshop mods, managing game servers, game cheats, and other steam or gaming-related tasks.**
+
+Nether API is used by NWD3 to download mods at high speeds. But also to save cloud configurations and download server plugins (Nether API for steam downloading).
+
+NWD3 has the ability to automatically allocate memory and CPU capacity to a large number of servers. 
+
+Planning to build a platform for uploading mods, making it easy for anyone to download and use them while also supporting the creator.
+
+**Customization**
+
+Tons of cool customization, custom fonts, buttons backgrounds.
+
+**Universal Detection**
+
+Downloader will search the depth's for your mod.
+
+**Virus Checking**
+
+Make's sure you don't get a virus. Powered by virus total.
+
+**Multithreading**
+
+Fastest Downloads, anytime.
+
+**Data Saver**
+
+Downloads from Nether API are compressed to insane size and are decompressed at the speed of light.
+
+NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. Get it now.
+
+![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/7219ab76-8e2c-4e63-8cd9-e1453be31c9c)
+![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/92dabd07-dd20-48c3-afec-dbf79bdc28ee)
+
 # Most Amount Of Games Supported!
 # [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
 ## NetherWorkshopDownloader3 is releasing, and it would only be avaliable through discord. [Join Now](https://discord.gg/bs9TMxMJk9)
 ### A powerful Steam workshop mod/collection downloader with its own API!
 Can download multiple mods, collections at a time.
 NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
-## NetherWorkshopDownloader 3 coming soon.
 ![GIF](https://user-images.githubusercontent.com/89841173/206400903-8652cf95-aaf2-40b9-a6f9-710e8ace3878.gif)
 
 ## [Join the Discord server!](https://discord.gg/bs9TMxMJk9)
