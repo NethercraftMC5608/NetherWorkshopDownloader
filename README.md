@@ -27,7 +27,7 @@ Fastest Downloads, anytime.
 
 Downloads from Nether API are compressed to insane size and are decompressed at the speed of light.
 
-NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. [Get it now.](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/tag/)
+NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. [Get it now.](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/)
 
 ![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/7219ab76-8e2c-4e63-8cd9-e1453be31c9c)
 ![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/92dabd07-dd20-48c3-afec-dbf79bdc28ee)
