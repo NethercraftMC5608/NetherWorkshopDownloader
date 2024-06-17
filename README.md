@@ -1,4 +1,4 @@
-# NetherWorkshopDownloader3
+# NetherWorkshopDownloader4 Coming Soon!! If you are desperate, use [alpha](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/NetherWorkshopDownloader-Dameon-4-Alpha), CHECK INTO OUR DISCORD FOR MORE INFO!
 **NetherWorkshopDownloader3 is a powerful tool for downloading workshop mods, managing game servers, game cheats, and other steam or gaming-related tasks.**
 
 Nether API is used by NWD3 to download mods at high speeds. But also to save cloud configurations and download server plugins (Nether API for steam downloading).
@@ -59,6 +59,8 @@ Copyright: Unless otherwise stated, all content in this repository, including co
 Indemnification: Users agree to indemnify, defend, and hold the author of this repository harmless from any and all claims, liabilities, damages, losses, or expenses, including legal fees and costs, arising from their use or misuse of this repository, its content, or related third-party APIs.
 
 Updates and Changes: The author reserves the right to modify, update, or remove any content, information, or features in this repository at any time without prior notice. Users are responsible for regularly reviewing the content and staying informed about any changes made to this repository.
+
+This is intended to be used solely for educational and testing purposes in accordance with applicable conditions. The developers are not responsible for any misuse of this tool or any violations of terms and conditions by the users.
 
 Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
 
