@@ -1,4 +1,5 @@
-# NetherWorkshopDownloader4 Coming Soon!! If you are desperate, use [alpha](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/NetherWorkshopDownloader-Dameon-4-Alpha), CHECK INTO OUR DISCORD FOR MORE INFO!
+# NetherWorkshopDownloader4 is coming soon!! Nether Spider API searches everywhere for public accounts and provides endless workshop support! Join our discord for progress updates. Its almost done!
+
 **NetherWorkshopDownloader3 is a powerful tool for downloading workshop mods, managing game servers, game cheats, and other steam or gaming-related tasks.**
 
 Nether API is used by NWD3 to download mods at high speeds. But also to save cloud configurations and download server plugins (Nether API for steam downloading).
