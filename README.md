@@ -1,103 +1,109 @@
 # NetherWorkshopDownloader5 is coming very shortly... Nether Spider API searches everywhere for public accounts and provides endless workshop support! Join our discord for progress updates. Its almost done!
 
-**NetherWorkshopDownloader3 is a powerful tool for downloading workshop mods, managing game servers, game cheats, and other steam or gaming-related tasks.**
+# Nether Workshop Downloader 5 🚀
 
-Nether API is used by NWD3 to download mods at high speeds. But also to save cloud configurations and download server plugins (Nether API for steam downloading).
+Welcome to **Nether Steam Workshop Downloader**, a community-driven, free "educational" tool to access Steam Workshop mods and ""demo" games securely" (coming soon) using NetherSpider a public Steam account scraper. Powered by **NetherSpider**, our proprietary crawler, this tool makes downloading mods and games effortless while prioritizing your security.
 
-NWD3 has the ability to automatically allocate memory and CPU capacity to a large number of servers. 
+*Not affiliated with @NethercraftMC5608. ;)*
+## [Join the community on Discord — for support, updates, and exclusive stuff.](https://discord.gg/bs9TMxMJk9)
 
-Planning to build a platform for uploading mods, making it easy for anyone to download and use them while also supporting the creator.
+---
 
-**Customization**
+## 🌟 Features
 
-Tons of cool customization, custom fonts, buttons backgrounds.
+- **Download Steam Workshop Mods**: Access mods for your favorite games with ease. Whether its anonymous or non anonymous mods.
+- **"Demo" Games Securely**: Try games using public Steam accounts fetched by NetherSpider. (Coming soon with Nether Steam Downloader)
+- **NetherWorkshopDownloader 5 Lite**: Built-in mod downloader for seamless Workshop integration, getting authentication with public steam accounts!
 
-**Universal Detection**
-
-Downloader will search the depth's for your mod.
-
-**Virus Checking**
-
-Make's sure you don't get a virus. Powered by virus total.
-
-**Multithreading**
-
-Fastest Downloads, anytime.
-
-**Data Saver**
-
-Downloads from Nether API are compressed to insane size and are decompressed at the speed of light.
-
-NetherWorkshopDownloader Lite v0.1 has been released, this is the barebones release for just workshop downloading. [Get it now.](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/)
-
-![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/7219ab76-8e2c-4e63-8cd9-e1453be31c9c)
-![image](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/assets/89841173/92dabd07-dd20-48c3-afec-dbf79bdc28ee)
-
-# Most Amount Of Games Supported!
-# [Get it now](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/releases/) 
-## NetherWorkshopDownloader3 is releasing, and it would only be avaliable through discord. [Join Now](https://discord.gg/bs9TMxMJk9)
-### A powerful Steam workshop mod/collection downloader with its own API!
-Can download multiple mods, collections at a time.
-NetherWorkshopDownloader2, A gui reworked, more safer alternative than NetherWorkshopDownloader
-![GIF](https://user-images.githubusercontent.com/89841173/206400903-8652cf95-aaf2-40b9-a6f9-710e8ace3878.gif)
-
-## [Join the Discord server!](https://discord.gg/bs9TMxMJk9)
-
-<a href="https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Donate!"><img src="https://img.shields.io/static/v1?label=Donate&message=Support%20Me!&color=red&style=for-the-badge"></a>
-[![GitHub tag](https://img.shields.io/github/tag/NethercraftMC5608/NethersWorkshopDownloader?include_prereleases=&sort=semver&color=blue)](https://github.com/NethercraftMC5608/NethersWorkshopDownloader/releases/)
-![Discord](https://img.shields.io/discord/1023539576821780481?label=Discord&style=flat-square)
-[![Downloads](https://img.shields.io/github/downloads/NethercraftMC5608/NethersWorkshopDownloader/total?style=flat-square)](#downloads)
-<a href="https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"><img src="https://img.shields.io/badge/View%20the%20Documentation-%20-blue?style=flat-square&link=https://github.com/NethercraftMC5608/NethersWorkshopDownloader/wiki"></a>
-
-Disclaimer: The respective owners hold all rights to the APIs, services, and trademarks mentioned in this repository. This project has no claim of ownership over them, nor is it affiliated with or endorsed by any of the mentioned providers.
-
-Responsibility: The author of this repository shall not be held responsible for any consequences, damages, or losses resulting from the use or misuse of this repository or the content provided by third-party APIs. Users bear sole responsibility for their actions and the potential repercussions that may ensue. We strongly advise users to adhere to the terms of service (TOS) for each respective website.
-
-Educational Purposes Only: This repository and its content are exclusively intended for educational purposes. By utilizing the information and code provided, users acknowledge that they assume all risk associated with the use of the APIs and mods, and they agree to comply with all applicable laws and regulations.
-
-Copyright: Unless otherwise stated, all content in this repository, including code, images, and documentation, is the intellectual property of the repository author. Unauthorized copying, distribution, or use of any content in this repository is strictly prohibited without the express written consent of the repository author.
-
-Indemnification: Users agree to indemnify, defend, and hold the author of this repository harmless from any and all claims, liabilities, damages, losses, or expenses, including legal fees and costs, arising from their use or misuse of this repository, its content, or related third-party APIs.
-
-Updates and Changes: The author reserves the right to modify, update, or remove any content, information, or features in this repository at any time without prior notice. Users are responsible for regularly reviewing the content and staying informed about any changes made to this repository.
-
-This is intended to be used solely for educational and testing purposes in accordance with applicable conditions. The developers are not responsible for any misuse of this tool or any violations of terms and conditions by the users.
-
-Released under [MIT](/LICENSE) by [@NethercraftMC5608](https://github.com/NethercraftMC5608).
-
-Steam Workshop Mod/Collection Downloader
-**Can download anything! Collections or mods.**
-![image](https://user-images.githubusercontent.com/89841173/192072130-d5054f63-6c33-4971-b8fe-9b5930a6b802.png)
-![mac](https://user-images.githubusercontent.com/89841173/206421645-7907cb07-ddf5-4ff4-84f4-6b293b3d7d59.png)
-_Mac and Linux support coming soon._
+---
 
 
-**A powerful workshop downloader and a powerful workshop API, this downloader can download mods that you could never access using other downloaders.**
+## 🔒 Whats different about Nether Workshop Downloader than other downloaders?
 
-Using a API called Nether API, unanonymous mods can be downloaded. It is very fast when cached.
+While other downloaders only download anonymous mods, and have private accounts locked in a paywall. Nether Workshop Downloader is a community driven project that allows you to download any workshop mod on steam whether its anonymous or non anonymous.
+NetherSpider API carrys a database full of accounts scraped from public account websites, using a custom steam web login handler and proxies to allow to login to hundreds of accounts and fetch app ids in seconds. This allows to create a database full of working steam accounts, in which can be used for downloading steam workshop mods free and effortlessly.
 
-| Nether Workshop  | Other |
-| ------------- | ------------- |
-| Community Based ✅  | ❎|
-| Free* ✅ | ❎|
-| Data Saving* ✅ | ❎|
-| Extract .NWD Files ✅ | ❎|
+![image](https://github.com/user-attachments/assets/b31bd072-a435-4ad4-a31b-0eff3a322604)
 
-# NWD Fastest Compression, Fast and space conservative.
-NWD Fastest Compression is a new compression method that is encorporated in Nether API,
+## How many games are there?
+Games will be forever increasing and to be working with the increasing amount of accounts with custom scrapers made by me take accounts from public sites by the second, however some games may be not working due to no working login credentials.
+Please be patient :)
 
-- Very fast -
-I mean very very very fast, compared to the old compression, this compresses a 1GB file in only 10 seconds!
-- Very conservative  -
-This is the future, a 1GB file that takes 10 seconds to compress, and would compress it to 4MB *(Subject to how many bits/content in file)*.
-- Data Saving -
-If you are using celluar data, or have slow internet or data limit, With NWD Fastest Compression, 200MB files will turn to 2MB, 4MB file would turn into 24KB. Making downloading files faster and don't have to worry about any data cap.
-- Fast uncompression. -
-You might of think that the uncompression speeds were the only let down. Nope. Files uncompress in only 3 seconds.
+## Is this free?
+Absolutely free, you don't need to pay anything for it at all. However donations would be helpful in funding proxies used to fetch accounts. But im doing this only for the convenience of you and myself.
 
-**And better yet, NetherWorkshopDownloader 2 (Legacy) supports NWD Fastest Compression!**
+## Will the app get better?
 
-_NWD Fastest Compression is [lz4.](https://github.com/lz4/lz4) Extremely Fast Compression algorithm_
+Of course, it is just basic now to get it out to you. In the upcoming updates, i will have more ui changes than API changes, all that matters is to have a **reliable** experience in using NetherWorkshopDownloader.
 
+## Why is the API and client propietary?
+
+The program obviously is a crawler, and no website owner likes crawling. So it would be kept secret for no patching. And in order to protect the accounts. However you can use it for free until it lasts.
+---
+
+## 🕷️ How It Works
+
+Our proprietary **NetherSpider** crawler scours "Steam game sharing" websites to find public accounts with access to your desired games. Here’s the process:
+
+1. **Search**: Enter a mod in Nether Steam Workshop Downloader.
+2. **Fetch**: NetherSpider gives you a account if game is working
+3. **Download**: Download **Locally** and safely through a custom steam handler, which protects your infomation.
+4. **Enjoy**: :)
+![diagram](https://github.com/user-attachments/assets/a9128f5b-ce26-420b-adb0-a1a192b08cbc)
+
+---
+
+## 🛠️ Getting Started
+
+1. **Download**: Grab the latest release from our Releases page.
+2. **Install**: Follow the setup instructions in the installer.
+3. [**Join the Community**: Get support, updates, and exclusive content on our Discord server.](https://discord.gg/bs9TMxMJk9)
+4. **Search & Download**: Launch the tool, search for a game or mod, and let NetherSpider do the rest!
+
+---
+
+## 💸 Support the Project
+
+Running NetherSpider requires residential proxies, which aren’t cheap. Your donations help keep the tool free and running smoothly (and maybe buy the coder a Big Mac 🍔). Even $1 makes a difference!
+
+**Donate Now**\
+Thanks to all the donators, really appreciate you fr :) ❤️
+
+---
+We don’t host or distribute copyrighted material. We only fetch publicly available Steam accounts, leveraging Valve’s Family Sharing feature.
+## ❓ FAQ
+
+**Why is NetherSpider proprietary?**
+To prevent patches that could break the tool’s functionality, we keep NetherSpider’s code private.
+
+**Is it safe?**\
+Absolutely. Our sandboxed Steam client and offline mode ensure your IP and system remain secure.
+
+**Need help?**\
+Join our Discord community for support and updates.
+
+---
+
+## 🤝 Contributing
+
+We’re a community-driven project! Want to help?
+
+- **Report Bugs**: Submit issues on our GitHub Issues page.
+- **Suggest Features**: Share your ideas on Discord.
+- **Donate**: Keep the proxies running with a small contribution.
+
+---
+
+## 📜 Disclaimer
+
+Nether Workshop Downloader is not affiliated with Valve or Steam. Use this tool responsibly and in accordance with Steam’s terms of service. For educational use, teaching steam API functions.<img src="https://github.com/user-attachments/assets/7501716d-dff2-4ff6-a17e-1113495d80d5" width=50px>
+
+---
+
+## 🌐 Connect with Us
+
+- [**Discord**: Join our community for support and updates.](https://discord.gg/bs9TMxMJk9)
+- **GitHub**: Star this repo and follow along!
+- **Donate**: Support the project.
 **Please report any legal inquiries or feedback to this email: NetherServerHosting@protonmail.com**
 
