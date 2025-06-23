@@ -11,7 +11,7 @@ Welcome to **Nether Steam Workshop Downloader**, a community-driven, free "educa
 
 ## 🌟 Features
 
-- **Download Steam Workshop Mods**: Access mods for your favorite games with ease. Whether its anonymous or non anonymous mods.
+- **Download Steam Workshop Mods**: Access mods for your favorite games with ease. Whether its anonymous or non anonymous mods. Downloads collections with multi downloading.
 - **"Demo" Games Securely**: Try games using public Steam accounts fetched by NetherSpider. (Coming soon with Nether Steam Downloader)
 - **NetherWorkshopDownloader 5 Lite**: Built-in mod downloader for seamless Workshop integration, getting authentication with public steam accounts!
 
@@ -39,6 +39,10 @@ Of course, it is just basic now to get it out to you. In the upcoming updates, i
 ## Why is the API and client propietary?
 
 The program obviously is a crawler, and no website owner likes crawling. So it would be kept secret for no patching. And in order to protect the accounts. However you can use it for free until it lasts.
+## Does it download collections?
+Yes you can download collections.
+
+NWD5 takes advantage of steamctl, a custom handler would be built to have multiple downloads.
 ---
 
 ## 🕷️ How It Works
